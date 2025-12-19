@@ -1,0 +1,7 @@
+{
+  "name": "DevPlanner AI",
+  "description": "A professional planner for developers to manage jobs, tasks, studies, and career growth with an integrated AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
